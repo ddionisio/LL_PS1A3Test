@@ -7,6 +7,26 @@
   "en": {
     "welcome": "Welcome!",
 	"blockWoodName": "Wood",
+	"blockWoodCorkName": "Wood Cork",
+	"blockIronName": "Iron",
+	"blockBalloonName": "Balloon",
+	"blockRubberName": "Rubber",
+	
+	"options": "OPTIONS",
+	"close": "CLOSE",
+	"sound": "SOUND"
+	"music": "MUSIC",
+	"restart": "RESTART",
+	"restartDesc": "Confirm to reset the level.",
+	"confirm": "CONFIRM",
+	"cancel": "CANCEL",
+	"goal": "Goal!",
+	"dragItemDesc": "Drag the matter into the world.",
+	"move": "MOVE",
+	"expand": "EXPAND",
+	"playButtonDesc": "Press this when you're ready!",
+	"restartButtonDesc": "Press this if you want to restart.",
+	
 	"test": "Test",
   },
 }
