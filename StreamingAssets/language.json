@@ -5,12 +5,19 @@
     }
   },
   "en": {
+	"title": "<size=52>MIGHTY CHIN CHIN</size>\nand the\n<size=40>Properties of Matter</size>",
+	"start": "START",
     "welcome": "Welcome!",
 	"blockWoodName": "Wood",
-	"blockWoodCorkName": "Wood Cork",
+	"blockCorkwoodName": "Corkwood",
 	"blockIronName": "Iron",
+	"blockConcreteName": "Concrete",
 	"blockBalloonName": "Balloon",
 	"blockRubberName": "Rubber",
+	"blockAluminumName": "Aluminum",
+	"blockFuelName": "Fuel Tank",
+	"blockOxidizerName": "Oxidizer Tank",
+	"blockCombustionChamberName": "Combustion Chamber",
 	
 	"options": "OPTIONS",
 	"close": "CLOSE",
@@ -27,6 +34,57 @@
 	"playButtonDesc": "Press this when you're ready!",
 	"restartButtonDesc": "Press this to start over.",
 	"dragScreenDesc": "Drag anywhere on the screen to move the view.",
+	
+	"introTitle1": "ALL THINGS MATTER",
+	"introDesc1": "Matters are things that have mass and volume.\n\nThese can be: solid, liquid, gas, or plasma.",
+	"introDesc_solid": "Solid",
+	"introDesc_liquid": "Liquid",
+	"introDesc_gas": "Gas",
+	"introDesc_liquid_gas": "Liquid/Gas",
+	
+	"introTitle2": "PHYSICAL PROPERTIES",
+	"introTitle2_example": "EXAMPLES",
+	"introDesc2": "Physical properties can be observed with your senses.\n\nYou can measure these properties with tools such as: weighing scale, beaker, thermometer.",
+	"intro_ex_size": "Size",
+	"intro_ex_volume": "Volume",
+	"intro_ex_freezing": "Freezing Point",
+	"intro_ex_melting": "Melting Point",
+	"intro_ex_magnet": "Magnetic",
+	
+	"introTitle3": "CHEMICAL PROPERTIES",
+	"introDesc3": "Chemical properties can only be observed once matter undergoes a change.\n\nThe resulting matter becomes something else entirely.",
+	"intro_ex_flammability": "Flammability",
+	"intro_ex_oxidation": "Oxidation",
+	
+	"stage_title_1": "Space and Size",
+	"stage_title_2": "Heavy Duty",
+	"stage_title_3": "Buoyancy",
+	"stage_title_4": "Highly Flammable",
+	"stage_title_5": "Conductive",
+	"stage_title_6": "My Chemical Reaction",
+	
+	"victory": "VICTORY",
+	
+	"launch": "LAUNCH",
+	"launchChecklist1": "Connect the Fuel Tank to a pump socket.",
+	"launchChecklist2": "Connect the Oxidizer Tank to a pump socket.",
+	"launchChecklist3": "Connect the Combustion Chamber to the pump tubes.",
+	
+	"launchSequence1": "Prepping for launch.",
+	"launchSequence2": "ignition sequence start.",
+	"launchSequence3": "Launching in...",
+	"launchSequence4": "5...",
+	"launchSequence5": "4...",
+	"launchSequence6": "3...",
+	"launchSequence7": "2...",
+	"launchSequence8": "1...",
+	"launchSequence9": "0...",
+	"launchSequence10": "All engines running...",
+	"launchSequence11": "Lift-off!",
+	"launchSequence12": "Godspeed!",
+	
+	"complete": "COMPLETE",
+	"completeDesc": "Thank you for playing!",
 	
 	"test": "Test"
   }
