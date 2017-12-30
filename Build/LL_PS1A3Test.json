@@ -1,8 +1,6 @@
 {
 "TOTAL_MEMORY": 134217728,
 "dataUrl": "LL_PS1A3Test.data.unityweb",
-"wasmCodeUrl": "LL_PS1A3Test.wasm.code.unityweb",
-"wasmFrameworkUrl": "LL_PS1A3Test.wasm.framework.unityweb",
 "asmCodeUrl": "LL_PS1A3Test.asm.code.unityweb",
 "asmMemoryUrl": "LL_PS1A3Test.asm.memory.unityweb",
 "asmFrameworkUrl": "LL_PS1A3Test.asm.framework.unityweb",
