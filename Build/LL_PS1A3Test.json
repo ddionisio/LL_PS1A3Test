@@ -4,6 +4,7 @@
 "asmCodeUrl": "LL_PS1A3Test.asm.code.unityweb",
 "asmMemoryUrl": "LL_PS1A3Test.asm.memory.unityweb",
 "asmFrameworkUrl": "LL_PS1A3Test.asm.framework.unityweb",
+"asmSymbolsUrl": "LL_PS1A3Test.asm.symbols.unityweb",
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
