@@ -1,3 +1,6 @@
 {
-  "languageCode": "en"
+  "languageCode": "en",
+  "lastProgressPoint":{
+	"currentProgress":5
+  }
 }
