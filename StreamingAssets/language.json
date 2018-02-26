@@ -126,11 +126,11 @@
 	"corkwood_info_desc": "Cork is an organic material made from the bark tissue of trees, mostly from cork oak. These materials are very light, elastic, and are highly resistant to fire.",
 	
 	"iron_info_buoyancy": "Sinks under water.",
-	"iron_info_melting_point": "Melting point: 1,538 degrees Celsius.",
+	"iron_info_melting_point": "Melts at 1,538 degrees Celsius.",
 	"iron_info_conductivity": "Good conductivity.",
 	"iron_info_desc": "Iron is a metallic material commonly found in the Earth's crust. They are also found in your body such as the red blood cell, which helps transport oxygen. Iron can also be magnetized to attract other metals.",
 	
-	"aluminum_info_melting_point": "Melting point: 660.3 degrees Celsius.",
+	"aluminum_info_melting_point": "Melts at 660.3 degrees Celsius.",
 	"aluminum_info_conductivity": "Very good conductivity.",	
 	"aluminum_info_desc": "Aluminum, like iron, is a metallic material commonly found in the Earth's crust. Unlike iron, it is much lighter, and highly resistant to corrosion. Because of this, aluminum is widely used for: packaging, containment, utensils.",
 	
